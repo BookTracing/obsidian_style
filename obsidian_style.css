@@ -88,7 +88,6 @@ margin-right: 3px;/* 텍스트의 우측 마진은 텍스트가 겹치는 문제
 .markdown-source-view.mod-cm6 .cm-strong.cm-em, 
 .markdown-preview-view strong em {
 color: #7ce13d !important;
-font-size: 1.0em !important;
 font-family: 'Courier New', Courier, monospace !important;
 margin-right: 3px;
 }
